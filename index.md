@@ -43,23 +43,14 @@ title: ZKTeam 专业 App 定制开发
 						<p>APP专业制作团队 ：只要说清你的需求，就给你想要的。</p>
 					</div>
 				</li>
-
 				<li style="background-image: url('../images/lunbo_bg1.png');">
 					<div class="inner">
 						<h1>全方位服务</h1>
 						<p>iOS 与 Android资深创作团队，提供个性化、全方位服务。</p>
 					</div>
 				</li>
-
-				<li style="background-image: url('http://www.bootcss.com/p/unslider/img/subway.jpg');">
-					<div class="inner">
-						<h1>极致体验</h1>
-						<p>完美用户体验，才是制胜王道。</p>
-					</div>
-				</li>
 			</ul>
 		</div>
-
 		<div class="service">
 			<ul class="wrap">
 				<li class="service1">
@@ -80,7 +71,6 @@ title: ZKTeam 专业 App 定制开发
 				</li>
 			</ul>
 		</div>
-
 		<div class="cooperation wrap">
 			<h2>合作流程</h2>
 			<ol>
@@ -122,7 +112,6 @@ title: ZKTeam 专业 App 定制开发
 				</li>
 			</ol>
 		</div>
-
 		<div class="contact">
 			<div class="wrap">
 				<h2>联系我们</h2>
@@ -131,10 +120,8 @@ title: ZKTeam 专业 App 定制开发
 				QQ：573065858（产品）、1020304029（技术）</p>				
 			</div>
 		</div>
-
 		<div class="wrap footer">
 			<p>&copy;&nbsp;Copyright 2014 - {{site.time | date:"%Y"}} - ZKTeam</p>
 		</div>
-
 </body>
 </html>
