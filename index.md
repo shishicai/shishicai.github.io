@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ZKTeam 专业 App 定制开发
+title: ZKTeam-时时彩平台开发
 ---
 <html>
 	<head>
@@ -39,14 +39,18 @@ title: ZKTeam 专业 App 定制开发
 			<ul>
 				<li style="background-image: url('../images/lunbo_bg1.png');">
 					<div class="inner">
-						<h1>专业技术</h1>
-						<p>APP专业制作团队 ：只要说清你的需求，就给你想要的。</p>
+						<h1>时时彩专业定制</h1>
+						<p>业界专业的娱乐平台开发商<br />
+						业界权威的时时彩源码提供商
+						</p>
 					</div>
 				</li>
-				<li style="background-image: url('../images/lunbo_bg1.png');">
+				<li style="background-image: url('../images/lunbo_bg2.png');">
 					<div class="inner">
-						<h1>全方位服务</h1>
-						<p>iOS 与 Android资深创作团队，提供个性化、全方位服务。</p>
+						<h1>顶级团队、极致体验</h1>
+						<p>我们的团队成员均超过8年开发经验<br />
+						对安全、性能有极高的造诣<br />
+						深度定制、让界面更有视觉冲击</p>
 					</div>
 				</li>
 			</ul>
@@ -115,8 +119,6 @@ title: ZKTeam 专业 App 定制开发
 		<div class="contact">
 			<div class="wrap">
 				<h2>联系我们</h2>
-				<p>电话：18610513559（产品）、18510509294（技术）
-				<br />
 				QQ：573065858（产品）、1020304029（技术）</p>				
 			</div>
 		</div>
