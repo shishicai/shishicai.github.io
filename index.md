@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ZKTeam-时时彩平台开发
+title: ZK-时时彩平台开发
 ---
 <html>
 	<head>
