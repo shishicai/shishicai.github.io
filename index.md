@@ -124,7 +124,7 @@ title: ZK-时时彩平台开发
 			</div>
 		</div>
 		<div class="wrap footer">
-			<p>&copy;&nbsp;Copyright 2014 - {{site.time | date:"%Y"}} - ZKTeam</p>
+			<p>&copy;&nbsp;Copyright 2014 - {{site.time | date:"%Y"}} - ZK</p>
 		</div>
 </body>
 </html>
