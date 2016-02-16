@@ -40,8 +40,8 @@ title: ZKTeam-时时彩平台开发
 				<li style="background-image: url('../images/lunbo_bg1.png');">
 					<div class="inner">
 						<h1>时时彩专业定制</h1>
-						<p>业界专业的娱乐平台开发商<br />
-						业界权威的时时彩源码提供商<br />
+						<p>业界专业的娱乐平台开发团队<br />
+						业界权威的时时彩源码提供团队<br />
 						</p>
 					</div>
 				</li>
