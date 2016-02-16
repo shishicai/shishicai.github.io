@@ -119,7 +119,7 @@ title: ZKTeam-时时彩平台开发
 		<div class="contact">
 			<div class="wrap">
 				<h2>联系我们</h2>
-				QQ：573065858（产品）、1020304029（技术）</p>				
+				QQ：1020304029</p>				
 			</div>
 		</div>
 		<div class="wrap footer">
