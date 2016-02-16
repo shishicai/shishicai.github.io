@@ -7,7 +7,9 @@ title: ZKTeam-时时彩平台开发
 	    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	    <title>{{ page.title }}</title>
-		
+		<meta name="keywords" content="时时彩,时时彩制作,时时彩开发,11选5,快乐十分,快3,十一运夺金,幸运农场,大乐透,双色球,时时彩网" />
+    	<meta name="description" content="业界专业的娱乐平台开发团队" />
+
 		<link rel="fluid-icon" href="/fluidicon.png" />
 	    <link rel="apple-touch-icon" sizes="57x57" href="/images/apple-touch-icon-114.png" />
 	    <link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icon-114.png" />
