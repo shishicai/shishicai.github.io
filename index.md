@@ -41,16 +41,15 @@ title: ZKTeam-时时彩平台开发
 					<div class="inner">
 						<h1>时时彩专业定制</h1>
 						<p>业界专业的娱乐平台开发商<br />
-						业界权威的时时彩源码提供商
+						业界权威的时时彩源码提供商<br />
 						</p>
 					</div>
 				</li>
 				<li style="background-image: url('../images/lunbo_bg2.png');">
 					<div class="inner">
 						<h1>顶级团队、极致体验</h1>
-						<p>我们的团队成员均超过8年开发经验<br />
-						对安全、性能有极高的造诣<br />
-						深度定制、让界面更有视觉冲击</p>
+						<p>我们的团队成员均超过8年开发经验。对安全、性能有极高的造诣<br />
+						手机端、Web端、PC客户端深度定制，让界面更有视觉冲击</p>
 					</div>
 				</li>
 			</ul>
@@ -119,7 +118,7 @@ title: ZKTeam-时时彩平台开发
 		<div class="contact">
 			<div class="wrap">
 				<h2>联系我们</h2>
-				QQ：1020304029</p>				
+				<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1020304029&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1020304029:53" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
 			</div>
 		</div>
 		<div class="wrap footer">
