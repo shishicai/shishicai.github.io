@@ -118,7 +118,7 @@ title: ZKTeam-时时彩平台开发
 		<div class="contact">
 			<div class="wrap">
 				<h2>联系我们</h2>
-				<a style="text-decoration: none;" target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1020304029&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1020304029:52" alt="点击这里给我发消息" title="点击这里给我发消息"/>点我开始定制</a>
+				<p>QQ:1020304029</p>
 			</div>
 		</div>
 		<div class="wrap footer">
