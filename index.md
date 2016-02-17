@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ZK-时时彩平台开发
+title: ZKTeam-时时彩平台开发
 ---
 <html>
 	<head>
@@ -121,7 +121,7 @@ title: ZK-时时彩平台开发
 			</div>
 		</div>
 		<div class="wrap footer">
-			<p>&copy;&nbsp;Copyright 2014 - {{site.time | date:"%Y"}} - ZK</p>
+			<p>&copy;&nbsp;Copyright 2014 - {{site.time | date:"%Y"}} - ZKTeam</p>
 		</div>
 </body>
 </html>
