@@ -165,13 +165,13 @@ h1, h2, h3, h4, b {
 	}
 
 .cooperation {
-	padding: 60px 0;
+	padding: 40px 0;
 }
 	.cooperation h2 {
 		color: #7c6853;
 	}
 	.cooperation h3 {
-		padding-bottom: 8px;
+		padding-bottom: 1px;
 
 		color: #7b6b53;
 		font-size: 20px;
@@ -184,11 +184,11 @@ h1, h2, h3, h4, b {
 		padding-left: 10px;
 	}
 	.cooperation p {
-		padding-bottom: 15px;
+		padding-bottom: 1px;
 	}
 
 .contact {
-	padding: 60px 0;
+	padding: 40px 0;
 
 	background: #39342d;
 	color: #7b7368;
