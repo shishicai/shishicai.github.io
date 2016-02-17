@@ -35,6 +35,16 @@ title: ZKTeam-时时彩平台开发
 				});
 			});
 	    </script>
+	    <script>
+			var _hmt = _hmt || [];
+			(function() {
+			  var hm = document.createElement("script");
+			  hm.src = "//hm.baidu.com/hm.js?83e5b1e5c96f1a0bc4d54c136ac36f2d";
+			  var s = document.getElementsByTagName("script")[0]; 
+			  s.parentNode.insertBefore(hm, s);
+			})();
+		</script>
+
 	</head>
 <body>
 		<div class="banner">
