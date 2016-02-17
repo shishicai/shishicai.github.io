@@ -7,7 +7,7 @@ title: ZK-时时彩平台开发
 	    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	    <title>{{ page.title }}</title>
-		<meta name="keywords" content="时时彩,时时彩制作,时时彩开发,11选5,快乐十分,快3,十一运夺金,幸运农场,大乐透,双色球,时时彩网" />
+		<meta name="keywords" content="时时彩,时时彩制作,时时彩开发,时时彩研发,时时彩平台制作,时时彩平台开发,时时彩娱乐平台制作,时时彩娱乐平台开发,时时彩网" />
     	<meta name="description" content="业界专业的娱乐平台开发团队" />
 
 		<link rel="fluid-icon" href="/fluidicon.png" />
@@ -44,7 +44,7 @@ title: ZK-时时彩平台开发
 						<h1>时时彩专业定制</h1>
 						<p>业界专业的娱乐平台开发团队<br />
 						业界权威的时时彩源码提供团队<br />
-						深度定制大型娱乐平台、我们<span style="color: red">专注</span>、我们<span style="color: red">高效</span>
+						深度定制大型娱乐平台、我们专注、我们高效
 						</p>
 					</div>
 				</li>
