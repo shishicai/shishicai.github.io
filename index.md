@@ -44,7 +44,7 @@ title: ZK-时时彩平台开发
 						<h1>时时彩专业定制</h1>
 						<p>业界专业的娱乐平台开发团队<br />
 						业界权威的时时彩源码提供团队<br />
-						深度定制大型娱乐平台、我们专注、我们高效
+						深度定制大型娱乐平台、我们<span style="color: red">专注</span>、我们<span style="color: red">高效</span>
 						</p>
 					</div>
 				</li>
