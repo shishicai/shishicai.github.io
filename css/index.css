@@ -165,12 +165,13 @@ h1, h2, h3, h4, b {
 	}
 
 .case {
+	background: #39342d;
 	padding: 60px 0;
 }
 	.case h2 {
 		color: #7c6853;
 	}
-	
+
 .cooperation {
 	padding: 40px 0;
 }
