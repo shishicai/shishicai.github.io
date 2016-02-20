@@ -46,7 +46,7 @@ title: ZKTeam-时时彩平台开发
 		</script>
 
 	</head>
-<body>
+	<body>
 		<div class="banner">
 			<ul>
 				<li style="background-image: url('../images/lunbo_bg1.png');">
@@ -88,6 +88,15 @@ title: ZKTeam-时时彩平台开发
 					<p>提供源源不断的技术支持，您不需要担心网站开发出来技术走人的尴尬情况</p>
 				</li>
 			</ul>
+		</div>
+		<div class="case wrap">
+			<h2>案例</h2>
+			<div class="row">
+			<div class="col-xs-6 col-md-3">
+				<a href="#" class="thumbnail">
+				<img src="../images/m.png">
+				</a>
+			</div>
 		</div>
 		<div class="cooperation wrap">
 			<h2>合作流程</h2>
@@ -133,5 +142,5 @@ title: ZKTeam-时时彩平台开发
 		<div class="wrap footer">
 			<p>&copy;&nbsp;Copyright 2014 - {{site.time | date:"%Y"}} - ZKTeam</p>
 		</div>
-</body>
+	</body>
 </html>
