@@ -89,13 +89,11 @@ title: ZKTeam-时时彩平台开发
 				</li>
 			</ul>
 		</div>
-		<div class="case wrap">
-			<h2>案例</h2>
-			<div class="row">
-				<div class="col-xs-6 col-md-3">
-					<div class="thumbnail">
-						<img src="images/m.png">
-					</div>
+		<div class="case">
+			<div class="wrap">
+				<h2>案例</h2>
+				<div>
+					<img src="images/m.png">
 				</div>
 			</div>
 		</div>
