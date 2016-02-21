@@ -93,7 +93,7 @@ title: ZKTeam-时时彩平台开发
 			<div class="wrap">
 				<h2>案例</h2>
 				<div>
-					<img src="images/m.png">
+					<img src="images/m.png" class="img-rounded">
 				</div>
 			</div>
 		</div>
