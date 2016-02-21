@@ -98,6 +98,11 @@ title: ZKTeam-时时彩平台开发
 							<img src="images/m.png" class="img-rounded">
 						</div>
 					</div>
+					<div class="col-sm-6 col-md-4">
+						<div class="thumbnail">
+							<img src="images/case1.png" class="img-rounded">
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
