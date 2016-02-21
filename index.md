@@ -97,40 +97,42 @@ title: ZKTeam-时时彩平台开发
 				</div>
 			</div>
 		</div>
-		<div class="cooperation wrap">
-			<h2>合作流程</h2>
-			<ol>
-				<li>
-					<div>
-						<h3>联系我们</h3>
-						<p>请 QQ 联系我们，1020304029，初步洽谈需求</p>
-					</div>
-				</li>
-				<li>
-					<div>
-						<h3>需求确定</h3>
-						<p>细化需求，双方确认需求，评估时间</p>
-					</div>
-				</li>
-				<li>
-					<div>
-						<h3>预付定金</h3>
-						<p>预付30%定金（不议价）</p>
-					</div>
-				</li>
-				<li>
-					<div>
-						<h3>成品预览验收</h3>
-						<p>完成开发，在客户指定的环境运行无 Bug</p>
-					</div>
-				</li>
-				<li>
-					<div>
-						<h3>付余款完成交易</h3>
-						<p>在客户验收完成需一次性付清余款，我们提交源码给客户</p>
-					</div>
-				</li>
-			</ol>
+		<div class="cooperation">
+			<div class="wrap">
+				<h2>合作流程</h2>
+				<ol>
+					<li>
+						<div>
+							<h3>联系我们</h3>
+							<p>请 QQ 联系我们，1020304029，初步洽谈需求</p>
+						</div>
+					</li>
+					<li>
+						<div>
+							<h3>需求确定</h3>
+							<p>细化需求，双方确认需求，评估时间</p>
+						</div>
+					</li>
+					<li>
+						<div>
+							<h3>预付定金</h3>
+							<p>预付30%定金（不议价）</p>
+						</div>
+					</li>
+					<li>
+						<div>
+							<h3>成品预览验收</h3>
+							<p>完成开发，在客户指定的环境运行无 Bug</p>
+						</div>
+					</li>
+					<li>
+						<div>
+							<h3>付余款完成交易</h3>
+							<p>在客户验收完成需一次性付清余款，我们提交源码给客户</p>
+						</div>
+					</li>
+				</ol>
+			</div>
 		</div>
 		<div class="contact">
 			<div class="wrap">
