@@ -19,9 +19,11 @@ title: ZKTeam-时时彩平台开发
 
 	    <link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css">
 	    <link rel="stylesheet" href="/css/index.css" />
+	    <link rel="stylesheet" type="text/css" href="plugins/jquery-foxibox-0.2.min/style/jquery-foxibox-0.2.css" />
 
 	    <script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
 	    <script src="//cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	    <script type="text/javascript" src="plugins/jquery-foxibox-0.2.min/script/jquery-foxibox-0.2.min.js"></script>
 	    <script src="//unslider.com/unslider.js"></script>
 	    <script type="text/javascript">
 	    	$(function() {
@@ -33,6 +35,7 @@ title: ZKTeam-时时彩平台开发
 					dots: true,               //  Display dot navigation
 					fluid: true              //  Support responsive design. May break non-responsive designs
 				});
+				$('a[rel]').foxibox();
 			});
 	    </script>
 	    <script>
@@ -94,19 +97,19 @@ title: ZKTeam-时时彩平台开发
 				<h2>案例</h2>
 				<div class="row">
 					<div class="col-sm-6 col-md-4">
-						<div class="thumbnail">
+						<a href="images/m.png" rel="[gall1]" class="thumbnail">
 							<img src="images/m.png" class="img-rounded">
-						</div>
+						</a>
 					</div>
 					<div class="col-sm-6 col-md-4">
-						<div class="thumbnail">
+						<a href="images/case1.png" rel="[gall1]" class="thumbnail">
 							<img src="images/case1.png" class="img-rounded">
-						</div>
+						</a>
 					</div>
 					<div class="col-sm-6 col-md-4">
-						<div class="thumbnail">
+						<a href="images/case2.png" rel="[gall1]" class="thumbnail">
 							<img src="images/case2.png" class="img-rounded">
-						</div>
+						</a>
 					</div>
 				</div>
 			</div>
